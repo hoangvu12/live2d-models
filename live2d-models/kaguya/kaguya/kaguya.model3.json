@@ -5,7 +5,14 @@
 		"Textures": [
 			"kaguya.2048/texture_00.png"
 		],
-		"Physics": "kaguya.physics3.json"
+		"Physics": "kaguya.physics3.json",
+		"Motions": {
+		      "": [
+			{
+			  "File": "motions/howcute.json"
+			},
+		      ]
+    		}
 	},
 	"Groups": [
 		{
